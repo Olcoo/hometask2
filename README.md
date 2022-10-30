@@ -1,6 +1,6 @@
 Hometask2
 
-Usage: vagrant up, vagrant up centos, vagrant up ubuntu, vagrant ssh centos, vagrant ssh ubuntu
+Usage: vagrant up, vagrant up centos, vagrant up ubuntu, vagrant ssh centos, vagrant ssh ubuntu, exit, vagrant destroy -f
 
 Check: go to Vagrant.configure
 
